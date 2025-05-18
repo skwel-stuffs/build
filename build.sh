@@ -11,6 +11,8 @@ git clone -b lineage-22.2 https://github.com/skwel-stuffs/vendor_xiaomi_topaz.gi
 
 git clone -b fifteen https://github.com/skwel-stuffs/hardware_qcom-caf_common.git hardware/qcom-caf/common
 
+git clone -b fifteen https://github.com/skwel-stuffs/android_hardware_xiaomi.git hardware/xiaomi
+
 git clone -b fifteen https://github.com/skwel-stuffs/android_device_xiaomi_sepolicy.git device/xiaomi/sepolicy
 
 echo "✅ DONE"
